@@ -22,7 +22,7 @@ for i in range(int(file_number)):
         os.mkdir(dir_name)
 
     save_path = os.path.join(input_path, dir_name)
-
+    os.chdir(save_path)
     # 総フレーム数、フレームレートの確認
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     fps = cap.get(5)
@@ -37,7 +37,7 @@ for i in range(int(file_number)):
     print("フレームレート")
     print(fps)
 
-    save_name = str(save_path) + "\ " + str(i) + ".png"
+    save_name ="%d.png" %i
     print(save_name)
 
     cv2.imwrite(save_name, frame)
