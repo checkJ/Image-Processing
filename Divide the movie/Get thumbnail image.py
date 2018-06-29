@@ -3,7 +3,7 @@ import os
 import numpy as np
 import time
 
-input_path = "D:\jifuku\M2\image proccesing\Binary\sample")
+input_path = "D:\jifuku\M2\image proccesing\Binary\sample"
 file_number = 2
 
 

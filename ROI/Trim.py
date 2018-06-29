@@ -21,7 +21,7 @@ dir_name = "templates"
 if not os.path.exists(dir_name):
     os.mkdir(dir_name)
 
-#directory内部のい画像枚数を調べる
+#directory内部の画像枚数を調べる
 number_images = []
 number_images =os.listdir(input_path)
 
