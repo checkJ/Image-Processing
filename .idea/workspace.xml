@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="483186ba-2cbf-4756-a654-eff9818816c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ROI/Trim.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Image Processing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ROI/Excel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROI/Trim.py" afterPath="$PROJECT_DIR$/ROI/Trim.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,33 +17,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="画像の細分化.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="1303">
-                    <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="23" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="Get thumbnail image.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Divide the movie/Get thumbnail image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
+            <state relative-caret-position="625">
               <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -61,7 +47,7 @@
       <file leaf-file-name="frame separateprot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Divide the movie/frame separateprot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
+            <state relative-caret-position="875">
               <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -70,14 +56,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Trim.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Trim.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ROI/Trim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="450">
+              <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="画像の細分化.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="131" column="5" lean-forward="false" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ROI/Excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,13 +135,16 @@
         <option value="$PROJECT_DIR$/Binary/ROI.py" />
         <option value="$PROJECT_DIR$/Divide the movie/Get thumbnail image.py" />
         <option value="$PROJECT_DIR$/ROI/Trim.py" />
+        <option value="$PROJECT_DIR$/ROI/Excel.py" />
+        <option value="$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1910" />
-    <option name="width" value="1940" />
-    <option name="height" value="2110" />
+    <option name="x" value="3829" />
+    <option name="y" value="-11" />
+    <option name="width" value="3862" />
+    <option name="height" value="2122" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,8 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,6 +190,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Trim">
+  <component name="RunManager" selected="Python.画像の細分化">
     <configuration default="false" name="frame separate3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,24 +234,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="image proccesing" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frame by frame/frame separate3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="テキトー" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frame by frame" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="image proccesing" />
-      <option name="SCRIPT_NAME" value="D:\jifuku\M2\image proccesing\frame by frame\複数の動画のサムネイルを取得するプログラム.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,6 +293,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="画像の細分化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\envs\python352\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Deep Learning/超高解像度化" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Image Processing" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,6 +358,22 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Image Processing" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -442,18 +469,18 @@
       <item index="2" class="java.lang.String" itemvalue="Python.ZNCC" />
       <item index="3" class="java.lang.String" itemvalue="Python.frame by frame" />
       <item index="4" class="java.lang.String" itemvalue="Python.frame separate3" />
-      <item index="5" class="java.lang.String" itemvalue="Python.テキトー" />
-      <item index="6" class="java.lang.String" itemvalue="Python.複数の動画のサムネイルを取得するプログラム" />
-      <item index="7" class="java.lang.String" itemvalue="Python.Get thumbnail image" />
-      <item index="8" class="java.lang.String" itemvalue="Python.Trim" />
+      <item index="5" class="java.lang.String" itemvalue="Python.複数の動画のサムネイルを取得するプログラム" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Get thumbnail image" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Trim" />
+      <item index="8" class="java.lang.String" itemvalue="Python.画像の細分化" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Trim" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Get thumbnail image" />
-        <item index="2" class="java.lang.String" itemvalue="Python.frame separate3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.複数の動画のサムネイルを取得するプログラム" />
-        <item index="4" class="java.lang.String" itemvalue="Python.テキトー" />
+        <item index="0" class="java.lang.String" itemvalue="Python.画像の細分化" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Trim" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Get thumbnail image" />
+        <item index="3" class="java.lang.String" itemvalue="Python.frame separate3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.複数の動画のサムネイルを取得するプログラム" />
       </list>
     </recent_temporary>
   </component>
@@ -474,18 +501,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1910" y="0" width="1940" height="2110" extended-state="0" />
+    <frame x="3829" y="-11" width="3862" height="2122" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3307613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287321" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771823" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958912" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39928424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -522,12 +549,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Template matching/POC.py" />
     <entry file="file://$PROJECT_DIR$/Extracting the center of gravity/Binary.py" />
     <entry file="file://$PROJECT_DIR$/Lens distortion correction/Lens distotion correction.py" />
     <entry file="file://$PROJECT_DIR$/Extracting the center of gravity/Center of gravity.py" />
@@ -593,7 +619,7 @@
     <entry file="file://$PROJECT_DIR$/Extracting the center of gravity/Center of gravity.py" />
     <entry file="file://$PROJECT_DIR$/Divide the movie/frame separateprot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
+        <state relative-caret-position="875">
           <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -603,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Divide the movie/Get thumbnail image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="625">
           <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -621,20 +647,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py">
+    <entry file="file://$PROJECT_DIR$/ROI/Trim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1303">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="23" />
+        <state relative-caret-position="450">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROI/Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ROI/Trim.py">
+    <entry file="file://$PROJECT_DIR$/../Deep Learning/超高解像度化/画像の細分化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="989">
+          <caret line="131" column="5" lean-forward="false" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#15#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
