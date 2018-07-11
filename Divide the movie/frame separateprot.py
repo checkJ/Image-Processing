@@ -100,7 +100,8 @@ for a in range(len(movie_list)):
 
         ret, frame = cap.read()
         cv2.imwrite("%05d.png" % i, frame)
-        sys.stdout.write("\r %d/%d complete!"%(i,frame_count))
+        percent = int(i/frame_count)
+        sys.stdout.write("\r %d / %d個目 %d %% completed!"%(a,len(movie_list), percent))
 
 
 #動画の長さと処理時間の関係
