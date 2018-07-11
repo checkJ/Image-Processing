@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6907f808-a73d-44da-add7-4a86ebb84850" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divide the movie/frame separateprot.py" afterPath="$PROJECT_DIR$/Divide the movie/frame separateprot.py" />
-    </list>
+    <list default="true" id="6907f808-a73d-44da-add7-4a86ebb84850" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +15,14 @@
       <file leaf-file-name="frame separateprot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Divide the movie/frame separateprot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="103" column="54" lean-forward="false" selection-start-line="103" selection-start-column="54" selection-end-line="103" selection-end-column="54" />
+            <state relative-caret-position="855">
+              <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
               <folding>
                 <element signature="e#23#33#0" expanded="true" />
+                <element signature="e#275#501#0" expanded="false" />
+                <element signature="e#840#1379#0" expanded="false" />
+                <element signature="e#1410#1572#0" expanded="false" />
+                <element signature="e#1633#2394#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -560,10 +562,14 @@
     <entry file="file://$PROJECT_DIR$/Extracting the center of gravity/Center of gravity.py" />
     <entry file="file://$PROJECT_DIR$/Divide the movie/frame separateprot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="103" column="54" lean-forward="false" selection-start-line="103" selection-start-column="54" selection-end-line="103" selection-end-column="54" />
+        <state relative-caret-position="855">
+          <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
           <folding>
             <element signature="e#23#33#0" expanded="true" />
+            <element signature="e#275#501#0" expanded="false" />
+            <element signature="e#840#1379#0" expanded="false" />
+            <element signature="e#1410#1572#0" expanded="false" />
+            <element signature="e#1633#2394#0" expanded="false" />
           </folding>
         </state>
       </provider>
