@@ -3,19 +3,26 @@ import os
 import time
 
 #処理したい動画の数
-f = 20
+f = 8
 
 
 start = time.time()
-cd = os.getcwd()
+
+print("path please")
+path = input()
+os.chdir(os.path.abspath(path))
+cd =os.getcwd()
+
 
 for a in range(f):
     # 読み込む動画の長さとfpsの設定値を入力
-    file_name = str(a)+".mp4"
-
+    file_name = str(a)+".MP4"
+    print(file_name)
     # カレントディレクトリ情報の取得
 
-    file_path = os.path.join(cd, "source", file_name)
+    file_path = os.path.join(os.path.abspath(path), file_name)
+    #file_path = os.path.join(cd, "source", file_name)
+    print(file_path)
 
 
 
@@ -28,7 +35,11 @@ for a in range(f):
     if not os.path.exists(dir_name):
         os.mkdir(dir_name)
 
+    print(cd)
+    print(dir_name)
+
     save_path = os.path.join(cd, dir_name)
+    print(save_path)
 
     # 動画のフレーム数を確認。のちのforループで使用するのでint型に指定
     frame_count = int(cap.get(7))
